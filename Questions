@@ -1,0 +1,39 @@
+Server-side technologies
+Advantages:
+
+Handle complex processing and data securely on the server.
+
+Can interact with databases and manage user sessions.
+
+Enable dynamic content generation.
+
+Disadvantages:
+
+Require server resources and can be slower due to network latency.
+
+More complex to develop and maintain.
+
+Depend on server availability.
+
+Three web scripting languages:
+
+PHP: Widely supported, easy to learn, great for web apps, but can be less performant.
+
+JavaScript (Node.js): Allows full-stack development with one language, fast and scalable, but callback complexity can be a challenge.
+
+Python: Clean syntax, great for rapid development and frameworks like Django, but less common in shared hosting.
+
+Control structures and OOP in web development
+
+Control structures: if-else, loops, and switches control the flow of the program based on conditions or iterations.
+
+Object-Oriented Programming (OOP): Organizes code into objects/classes for better modularity, reuse, and maintenance; important for managing complex web apps.
+
+Key Web-programming concepts
+i. HTTP and HTTPS:
+
+HTTP is the protocol for transferring web data; HTTPS is the secure version using encryption (SSL/TLS) to protect data privacy and integrity.
+
+ii. Stateless programming:
+
+Each web request is independent with no stored context; servers do not remember previous interactions unless sessions or cookies are used to maintain state.
