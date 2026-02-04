@@ -37,3 +37,21 @@ HTTP is the protocol for transferring web data; HTTPS is the secure version usin
 ii. Stateless programming:
 
 Each web request is independent with no stored context; servers do not remember previous interactions unless sessions or cookies are used to maintain state.
+
+References (APA)
+
+Berners-Lee, T., Fielding, R., & Masinter, L. (2005). Uniform resource identifier (URI): Generic syntax (RFC 3986). Internet Engineering Task Force. https://doi.org/10.17487/RFC3986
+
+Fielding, R. T., & Reschke, J. (2014). Hypertext Transfer Protocol (HTTP/1.1): Semantics and content (RFC 7231). Internet Engineering Task Force. https://doi.org/10.17487/RFC7231
+
+Flanagan, D. (2020). JavaScript: The definitive guide (7th ed.). O’Reilly Media.
+
+Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design patterns: Elements of reusable object-oriented software. Addison-Wesley.
+
+Lutz, M. (2013). Learning Python (5th ed.). O’Reilly Media.
+
+PHP Group. (2023). PHP manual. https://www.php.net/manual/en/
+
+Sommerville, I. (2016). Software engineering (10th ed.). Pearson Education.
+
+W3C. (2023). HTTP overview. https://www.w3.org/Protocols/
